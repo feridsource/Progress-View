@@ -2,7 +2,7 @@
 Custom progress view showing current value.
 This is a library for Android applications.
 
-![Alt text](/screen_shot.png =100x200)
+![Alt text](/screen_shot.png | width=100)
 
 # Licence
 
