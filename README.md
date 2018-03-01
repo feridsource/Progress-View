@@ -2,6 +2,8 @@
 Custom progress view showing current value.
 This is a library for Android applications.
 
+![Alt text](/screen_shot.png?raw=true "Custom Progress View")
+
 # Licence
 
 Copyright (C) 2018 Ferid Cafer
