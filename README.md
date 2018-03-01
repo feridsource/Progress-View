@@ -1,4 +1,4 @@
-# Progress-View
+# Etiya Progress View
 Custom progress view showing current value.
 This is a library for Android applications.
 
