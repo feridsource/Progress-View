@@ -1,5 +1,5 @@
 # Etiya Progress View
-Custom progress view showing current value.
+Custom progress view showing current value proportionally.
 This is a library for Android applications.
 
 ![Alt text](/screen_shot.png?raw=true)
